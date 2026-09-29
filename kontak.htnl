@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Katalog produk & portofolio - poliban DigiCraft studio </title>
+</head>
+<body>
+    <!-- Bagian kepala halaman (header & navigation) -->
+     
+        <h1>poliban DigiCraft</h1>
+        <p>solusi transformasi bisnis digital anda di Banjarmasin</p>
+     <hr>
+     <nav>
+        <a href="biodata.html">Tentang Founder</a>|
+        <a href="PRODUK.HTML">katalog jasa & pake harga</a>
+     </nav>
+     <hr>
+     <section>
+        
+     
+            "
+    
+</body>
+</html>
